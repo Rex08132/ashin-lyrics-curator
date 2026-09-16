@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+.env
+.DS_Store
+token.txt
+find_token.py
+check_tools.py
+test.txt
